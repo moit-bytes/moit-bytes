@@ -1,122 +1,133 @@
-
-
 <img src="https://github.com/moit-bytes/moit-bytes/blob/main/mohit.gif" width="70%">
 
-
-## Hi, <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px" height="30px"> I am Mohit Kumar !
+## Hi, <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px" height="30px"> I am Mohit Kumar!
 <br>
 
- <p>
-<img src="https://img.shields.io/badge/Age-20-blue" />
-<img src="https://img.shields.io/badge/Lives-India-success" />
+<p>
+<img src="https://img.shields.io/badge/Role-Senior%20Software%20Engineer-blue" />
+<img src="https://img.shields.io/badge/Based%20in-Toronto%2C%20Canada-success" />
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
 </p>
 
-
 <hr>
-<h3>Competitive Coder | Full Stack Developer | Data Scientist | Android Developer </h3>
 
-
-<p>
-<a href="https://www.linkedin.com/in/moitbytes/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="moitbytes" height="40" width="40" /></a> &nbsp;
-<a href="https://www.codechef.com/users/moitbytes_1" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="moitbytes_1" height="40" width="40" /></a>  &nbsp;
-<a href="https://codeforces.com/profile/moitbytes" target="blank"><img align="center" src="https://1.bp.blogspot.com/-8skaizO2B04/Wnw6rqD8qlI/AAAAAAAABRA/dXqVYGqjZ2Eeeo3SV-A_9cGMtgQ7LhomwCPcBGAYYCw/s1600/codeforce.png" alt="moitbytes" height="40" width="40" /></a>  &nbsp;  
-<a href="https://www.hackerrank.com/moitbytes" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="moitbytes" height="40" width="40" /></a>&nbsp;
-<a href="https://twitter.com/moitbytes" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="moitbytes" height="40" width="40" /></a> &nbsp; &nbsp;
- <a href = "mailto: mohitkumar.projects@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="40" width="50" /></a>
-</p>
-</p>
+<h3>Senior Software Engineer | Full Stack Developer | Distributed Systems Engineer</h3>
 
 <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***About me !*** 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***About me!***
 
 <p>
   <em>
-    Hello, I am Mohit Kumar an <b> undergraduate student </b> from <a target="blank" href="https://srmap.edu.in/"> <b>SRM University AP</b>, Andhra Pradesh</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Developer.gif" width="30px" height="30px""> and a <b>Competitive Coder.</b>&nbsp I am a <b>full stack developer</b> who likes to develop several exciting applications that are capable to solve some real world issues. &nbsp I am a <b>Data Scientist</b> who is keen to find patterns that are wisely hidden in the data. Being an <b>Android Developer</b>, I like to develop some awesome apps that can solve real world issues. Along with this, I also love to develop <b>backend services</b> and provide database related assistance to several projects. 
+    I am a <b>Senior Software Engineer</b> and <b>Full Stack Developer</b> based in Toronto, Canada. I build reliable, scalable products across polished React interfaces, distributed Java systems, event-driven services, cloud infrastructure, and production observability.
+    <br><br>
+    At <b>Volante Systems</b>, I work on hospitality products including <b>Virtual POS, Kiosk, Bar Tabs, Table Service, and Back Office</b>. These systems support more than <b>300K end customers, 30K connected terminals, and 10K stores</b> while processing millions of transactions across North America.
+    <br><br>
+    I enjoy turning complex engineering problems into clear, dependable products—whether that means improving frontend performance, designing secure multi-tenant services, building real-time workflows, or optimizing systems for demanding production environments.
+  </em>
 </p>
- 
+
 <br>
- 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
- 
-- 🔭 I’m currently working on development of native apps using Android Studio
 
-- 🌱 I’m interested in Data Analytics and am working on several projects to sharpen my analytical skills.
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 👯 I’m looking to collaborate with people of similar mind and work on some projects. 
+- 🔭 I’m currently building real-time hospitality products using React, TypeScript, Java, Spring Cloud, RabbitMQ, Redis, Docker, and Kubernetes.
 
-- 💬 Ask me anything about Android, Data Structures, Algorithms, Database, and Backend related stuff. 
- 
-- 😄 Pronouns: His/He
+- ⚡ I work across Virtual POS, Kiosk, Bar Tabs, Table Service, Back Office, distributed services, and offline-first synchronization.
+
+- 🧠 I’m interested in distributed systems, microservices, event-driven architecture, system design, performance engineering, and cloud delivery.
+
+- 🏆 I’m an ACM ICPC Regionalist, a 5+ hackathon winner, and a recipient of the Rising Star Award, Best Paper Award, and Research Day Gold Medal.
+
+- 🤝 I enjoy collaborating with engineers and designers who care about building thoughtful, reliable, and genuinely useful products.
+
+- 💬 Ask me about React, TypeScript, Java, Spring Cloud, RabbitMQ, Redis, MongoDB, PostgreSQL, Docker, Kubernetes, AWS, or system design.
+
+- 😄 Pronouns: He/Him
+
 <br>
 <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***Tech Stack !***  
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***Tech Stack!***
 
+#### Languages
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=React&logoColor=777BB4)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=NodeJS&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
+
+#### Frontend
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=FFFFFF)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite&logoColor=646CFF)&nbsp;
+![MobX](https://img.shields.io/badge/-MobX-05122A?style=flat&logo=mobx&logoColor=FF9955)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss&logoColor=06B6D4)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass&logoColor=CC6699)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
+
+#### Backend and APIs
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot&logoColor=6DB33F)&nbsp;
+![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-05122A?style=flat&logo=spring&logoColor=6DB33F)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express&logoColor=FFFFFF)&nbsp;
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-05122A?style=flat&logo=openapiinitiative&logoColor=6BA539)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=FFFFFF)&nbsp;
+
+#### Data, Messaging and Search
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=DC382D)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq&logoColor=FF6600)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apachekafka&logoColor=FFFFFF)&nbsp;
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch&logoColor=005571)&nbsp;
+![Flyway](https://img.shields.io/badge/-Flyway-05122A?style=flat&logo=flyway&logoColor=CC0200)&nbsp;
+
+#### Cloud and Platform
+
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5)&nbsp;
+![Amazon Web Services](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazonwebservices&logoColor=FF9900)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=googlecloud&logoColor=4285F4)&nbsp;
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-05122A?style=flat&logo=awslambda&logoColor=FF9900)&nbsp;
+![CloudFormation](https://img.shields.io/badge/-CloudFormation-05122A?style=flat&logo=amazonwebservices&logoColor=FF9900)&nbsp;
+
+#### Testing, Observability and Delivery
+
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)&nbsp;
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-05122A?style=flat&logo=testinglibrary&logoColor=E33332)&nbsp;
+![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=kibana&logoColor=005571)&nbsp;
+![SonarCloud](https://img.shields.io/badge/-SonarCloud-05122A?style=flat&logo=sonarcloud&logoColor=F3702A)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=5C3EE8)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&logoColor=5C3EE8)&nbsp;
-![Scipy](https://img.shields.io/badge/-Scipy-05122A?style=flat&logo=Scipy&logoColor=5C3EE8)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![Amazon Web Services](https://img.shields.io/badge/-Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=FFFFFF)&nbsp;
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-05122A?style=flat&logo=google-cloud&logoColor=03cffc)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku&logoColor=FFCA28)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=fc6b03)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=03cffc)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket&logoColor=0052CC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
 
 <hr>
 
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=moit-bytes&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=moit-bytes&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moit-bytes&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=moit-bytes&theme=chartreuse-dark"></p>
-
-<hr>
-
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bmoit-bytes%7D/count.svg" alt="visitor badge"/></p>
-
-<hr>
 
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a target="blank" href="https://github.com/moit-bytes"><img src="https://img.shields.io/badge/-moitbytes.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a target="blank" href="https://linkedin.com/in/moitbytes"><img src="https://img.shields.io/badge/-Mohit%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a target="blank" href="mailto:mohitkumar.projects@gmail.com"><img src="https://img.shields.io/badge/-mohitkumar.projects@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a target="blank" href="https://www.codechef.com/users/moitbytes_1"><img src="https://img.shields.io/badge/-moitbytes_1-000000?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a target="blank" href="https://twitter.com/moitbytes"><img src="https://img.shields.io/badge/-moitbytes-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a target="_blank" href="https://moitbytes.dev"><img src="https://img.shields.io/badge/-Portfolio-BBFF39?style=for-the-badge&logo=googlechrome&logoColor=142000" alt="Mohit Kumar's portfolio"/></a>
+<a target="_blank" href="https://github.com/moit-bytes"><img src="https://img.shields.io/badge/-GitHub-3423A6?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
+<a target="_blank" href="https://linkedin.com/in/moitbytes"><img src="https://img.shields.io/badge/-Mohit%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:moitbytes@gmail.com"><img src="https://img.shields.io/badge/-moitbytes@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
+<a target="_blank" href="https://www.codechef.com/users/moitbytes_1"><img src="https://img.shields.io/badge/-moitbytes_1-000000?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<a target="_blank" href="https://twitter.com/moitbytes"><img src="https://img.shields.io/badge/-moitbytes-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 ---
+
 Credit: [Mohit Kumar](https://github.com/moit-bytes)
 
-Last Updated On: 07/05/2022
-
+Last Updated On: 25/09/2026
